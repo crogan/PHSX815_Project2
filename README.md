@@ -1,4 +1,4 @@
-# PHSX815 Spring 2021 Project 2
+# PHSX815 Spring 2023 Project 2
 
 ## Monte Carlo Sampling and Integration
 
